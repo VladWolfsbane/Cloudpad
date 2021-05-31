@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774518863814",
+    "project_id": "couldpad-1-0",
+    "storage_bucket": "couldpad-1-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774518863814:android:7fafc53a239439f2d0a4c7",
+        "android_client_info": {
+          "package_name": "com.example.cloudpad10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774518863814-0vdkss26aa4lilq1gq2lbnm14284biak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2GBrcJy9SJE_7I3J4GKw1HG3zOZ1XzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774518863814-0vdkss26aa4lilq1gq2lbnm14284biak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
